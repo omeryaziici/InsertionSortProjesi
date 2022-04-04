@@ -24,6 +24,7 @@ Başlangıç seviye java ile backend web development patikası -> Veri yapılar�
 3. Average Case: 18, Worst Case: 27, Best Case: 2
 4. Average Case
 
+
 1.Adım - [7],3,5,8,2,9,4,15,6
 2.Adım - [3,7],5,8,2,9,4,15,6
 3.Adım - [3,5,7],8,2,9,4,15,6
